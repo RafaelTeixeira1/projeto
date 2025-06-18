@@ -37,3 +37,17 @@ docker-compose up --build
 - Aplicação Apache + PHP: http://localhost:8050
 
 - PhpMyAdmin: http://localhost:8051
+
+## 📌 Observação
+
+Este projeto foi desenvolvido para fins acadêmicos na disciplina Serviços de Redes de Computadores e demonstra as boas práticas de dockerização de aplicações web.
+
+## 📧 Contato
+
+Caso queira mais informações:
+
+Jhannyfer Sweyvezes Rodrigues Biangulo
+
+Rafael de Souza Teixeira
+
+
